@@ -1,0 +1,18 @@
+14:43:05.830 [http-nio-8081-exec-5] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/c
+14:43:05.832 [http-nio-8081-exec-5] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:GET
+14:43:05.832 [http-nio-8081-exec-5] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+14:43:05.832 [http-nio-8081-exec-5] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.getSpringBoot
+14:43:05.833 [http-nio-8081-exec-5] INFO  com.springboot.aspect.WebLogAspect - ARGS : [c]
+14:43:05.939 [http-nio-8081-exec-5] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@2b4184d
+16:27:03.835 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/bbb
+16:27:03.836 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:GET
+16:27:03.836 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+16:27:03.836 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.getSpringBoot
+16:27:03.836 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - ARGS : [bbb]
+16:27:03.942 [http-nio-8081-exec-3] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@1adba92c
+16:27:10.518 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/ccc
+16:27:10.528 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:GET
+16:27:10.528 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+16:27:10.528 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.getSpringBoot
+16:27:10.528 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - ARGS : [ccc]
+16:27:10.547 [http-nio-8081-exec-4] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@2eba6927

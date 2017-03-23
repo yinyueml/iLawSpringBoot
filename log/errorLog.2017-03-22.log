@@ -1,0 +1,6 @@
+16:51:34.016 [http-nio-8081-exec-1] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@78855613
+17:15:08.363 [http-nio-8081-exec-4] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@623c3585
+17:16:28.793 [http-nio-8081-exec-9] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@6280a9b8
+20:36:57.018 [http-nio-8081-exec-3] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@4e3cc42c
+20:37:44.776 [http-nio-8081-exec-10] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@782047ca
+22:20:32.068 [http-nio-8081-exec-1] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@4e8b5d2d

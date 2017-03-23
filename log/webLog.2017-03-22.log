@@ -1,0 +1,36 @@
+16:51:32.357 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/add
+16:51:32.357 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:POST
+16:51:32.357 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+16:51:32.357 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.addSpringBoot
+16:51:32.358 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - ARGS : [com.springboot.entity.SpringBootEntity@7e632cd2]
+16:51:34.016 [http-nio-8081-exec-1] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@78855613
+17:15:06.540 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/ccc
+17:15:06.540 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:GET
+17:15:06.541 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+17:15:06.541 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.getSpringBoot
+17:15:06.541 [http-nio-8081-exec-4] INFO  com.springboot.aspect.WebLogAspect - ARGS : [ccc]
+17:15:08.363 [http-nio-8081-exec-4] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@623c3585
+17:16:27.320 [http-nio-8081-exec-9] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/c
+17:16:27.320 [http-nio-8081-exec-9] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:GET
+17:16:27.321 [http-nio-8081-exec-9] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+17:16:27.321 [http-nio-8081-exec-9] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.getSpringBoot
+17:16:27.321 [http-nio-8081-exec-9] INFO  com.springboot.aspect.WebLogAspect - ARGS : [c]
+17:16:28.793 [http-nio-8081-exec-9] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@6280a9b8
+20:36:56.942 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/ccc
+20:36:56.943 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:GET
+20:36:56.943 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+20:36:56.943 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.getSpringBoot
+20:36:56.943 [http-nio-8081-exec-3] INFO  com.springboot.aspect.WebLogAspect - ARGS : [ccc]
+20:36:57.018 [http-nio-8081-exec-3] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@4e3cc42c
+20:37:44.757 [http-nio-8081-exec-10] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/aaa
+20:37:44.758 [http-nio-8081-exec-10] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:GET
+20:37:44.758 [http-nio-8081-exec-10] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+20:37:44.758 [http-nio-8081-exec-10] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.getSpringBoot
+20:37:44.758 [http-nio-8081-exec-10] INFO  com.springboot.aspect.WebLogAspect - ARGS : [aaa]
+20:37:44.776 [http-nio-8081-exec-10] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@782047ca
+22:20:31.982 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - URL:http://localhost:8081/springBoot/ccc
+22:20:32.000 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - HTTP_METHOD:GET
+22:20:32.000 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - IP:0:0:0:0:0:0:0:1
+22:20:32.000 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - CLASS_METHOD:com.springboot.controller.SpringBootController.getSpringBoot
+22:20:32.000 [http-nio-8081-exec-1] INFO  com.springboot.aspect.WebLogAspect - ARGS : [ccc]
+22:20:32.068 [http-nio-8081-exec-1] ERROR com.springboot.aspect.WebLogAspect - RESPONSE:com.springboot.response.SpringbootResponse@4e8b5d2d
